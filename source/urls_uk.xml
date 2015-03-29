@@ -1,0 +1,5 @@
+<root>
+    <url name="pravda">http://www.pravda.com.ua/rus/rss/</url>
+    <url name="facty">http://fakty.ua/rss_feed/world</url>
+    <url name="korr">http://k.img.com.ua/rss/ru/all_news2.0.xml</url>
+</root>

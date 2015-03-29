@@ -1,0 +1,8 @@
+<root>
+    <url name="npr">http://www.npr.org/rss/rss.php?id=1004</url>
+    <url name="cbc">http://www.cbc.ca/cmlink/rss-world</url>
+    <url name="CNN">http://rss.cnn.com/rss/cnn_topstories.rss</url>
+    <url name="New York Times">http://feeds.nytimes.com/nyt/rss/HomePage</url>
+    <url name="BBC">http://newsrss.bbc.co.uk/rss/newsonline_world_edition/americas/rss.xml</url>
+    <url name="Reuters">http://feeds.reuters.com/reuters/topNews</url>
+</root>
